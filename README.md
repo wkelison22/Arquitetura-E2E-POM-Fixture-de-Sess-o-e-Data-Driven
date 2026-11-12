@@ -9,7 +9,8 @@
 - Standard User: `standard_user` / `secret_sauce`
 - Locked Out User: `locked_out_user` / `secret_sauce`
 
-## Como Instalar e Rodar
-1. Instale as dependências:
+##  dependencias que devem ser instaladas 
+1. Instale as dependências e os navegadores do Playwright:
    ```bash
    npm install
+   npx playwright install
