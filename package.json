@@ -1,0 +1,20 @@
+{
+  "name": "arquitetura-e2e-pom-fixture-de-sess-o-e-data-driven",
+  "version": "1.0.0",
+  "description": "- eu escolhi o SauceDemo para a pratica desse exercicio [SauceDemo](https://www.saucedemo.com/)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
